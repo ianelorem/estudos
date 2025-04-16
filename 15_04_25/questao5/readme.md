@@ -1,0 +1,2 @@
+## questão 10
+- Faça um algoritmo que leia a largura e a altura dee uma parede, calcule e mostre a área a ser pintada e a quantidade de tinta necessária para o serviço,sabendo que cada tinta pinta uma área de 2metros quadrados 

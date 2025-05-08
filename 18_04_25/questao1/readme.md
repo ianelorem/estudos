@@ -1,0 +1,2 @@
+##questão 17
+-escreva um progama que pergunte a velocidade de um carro. Caso ultrapasse 80 km/h, exiba uma mensagem dizendo que o usuário foi multado .  Nesse caso, exiba o valor da multa ,cobraando R$5 por cada km acima da velocidade permitida
